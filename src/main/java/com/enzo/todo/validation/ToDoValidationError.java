@@ -1,4 +1,4 @@
-package com.enzo.todo.domain.validation;
+package com.enzo.todo.validation;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 

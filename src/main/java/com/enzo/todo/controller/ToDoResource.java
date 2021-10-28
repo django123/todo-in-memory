@@ -19,7 +19,7 @@ import java.net.URI;
 import java.util.Optional;
 
 @RestController
-@RequestMapping("/api")
+@RequestMapping("/api/v1")
 @RequiredArgsConstructor
 public class ToDoResource {
 
